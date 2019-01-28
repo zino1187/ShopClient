@@ -15,6 +15,7 @@ import javax.swing.JPanel;
 import javax.swing.SwingConstants;
 
 import com.javaclient.db.ConnectionManager;
+import com.javaclient.payment.CartMain;
 import com.javaclient.product.ProductMain;
 
 public class ClientMain extends JFrame{
